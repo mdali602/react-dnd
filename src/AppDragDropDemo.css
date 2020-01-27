@@ -1,0 +1,44 @@
+.container-drag {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  line-height: 5em;
+}
+.square {
+  background-color: yellow;
+}
+.circle {
+  background-color: blue;
+  border-radius: 50%;
+}
+.line {
+  width: 4px;
+  background-color: black;
+  margin-left: 48px;
+}
+.drawing {
+  position: absolute;
+  width: calc(100% - 160px);
+  height: 90vh;
+  left: 140px;
+  background-color: #eee;
+}
+.drawing-items {
+  position: absolute;
+  height: 100px;
+  background-color: rgb(255, 0, 0);
+  border: 1px slid #000000;
+  z-index: 1;
+}
+.triangle-up {
+  width: 0 !important;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid red;
+}
