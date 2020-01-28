@@ -1,1 +1,2 @@
-export const DROP_ACTION = 'DROP_ACTION'
+export const DROP_ACTION = "DROP_ACTION";
+export const UPDATE_ITEM_ACTION = "UPDATE_ITEM_ACTION";

@@ -31,7 +31,8 @@
 .drawing-items {
   position: absolute;
   height: 100px;
-  background-color: rgb(255, 0, 0);
+  border: 1px solid #000000;
+  background-color: #FFFFFF;
   border: 1px slid #000000;
   z-index: 1;
 }
@@ -41,4 +42,8 @@
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
   border-bottom: 100px solid red;
+}
+textarea {
+  width: -webkit-fill-available;
+  margin-top: 30px;
 }
