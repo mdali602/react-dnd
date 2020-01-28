@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-dnd/static/css/main.424c42a2.chunk.css",
+    "main.css": "/react-dnd/static/css/main.e6345380.chunk.css",
     "main.js": "/react-dnd/static/js/main.4cee8596.chunk.js",
     "main.js.map": "/react-dnd/static/js/main.4cee8596.chunk.js.map",
     "runtime-main.js": "/react-dnd/static/js/runtime-main.cf45d206.js",
@@ -8,15 +8,15 @@
     "static/js/2.8fa02c11.chunk.js": "/react-dnd/static/js/2.8fa02c11.chunk.js",
     "static/js/2.8fa02c11.chunk.js.map": "/react-dnd/static/js/2.8fa02c11.chunk.js.map",
     "index.html": "/react-dnd/index.html",
-    "precache-manifest.450c0f1a5db8c6e0f91464eb7f013a4f.js": "/react-dnd/precache-manifest.450c0f1a5db8c6e0f91464eb7f013a4f.js",
+    "precache-manifest.ccccfa6e476e9777258a89bf8f638842.js": "/react-dnd/precache-manifest.ccccfa6e476e9777258a89bf8f638842.js",
     "service-worker.js": "/react-dnd/service-worker.js",
-    "static/css/main.424c42a2.chunk.css.map": "/react-dnd/static/css/main.424c42a2.chunk.css.map",
+    "static/css/main.e6345380.chunk.css.map": "/react-dnd/static/css/main.e6345380.chunk.css.map",
     "static/js/2.8fa02c11.chunk.js.LICENSE": "/react-dnd/static/js/2.8fa02c11.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.cf45d206.js",
     "static/js/2.8fa02c11.chunk.js",
-    "static/css/main.424c42a2.chunk.css",
+    "static/css/main.e6345380.chunk.css",
     "static/js/main.4cee8596.chunk.js"
   ]
 }
